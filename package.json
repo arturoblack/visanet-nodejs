@@ -6,9 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arturoblack/visanet-nodejs.git"
+  },
+  "keywords": ["visanet"],
   "author": "arturoblack",
   "license": "MIT",
   "dependencies": {
     "request": "^2.88.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/arturoblack/visanet-nodejs/issues"
+  },
+  "homepage": "https://github.com/arturoblack/visanet-nodejs#readme"
 }
