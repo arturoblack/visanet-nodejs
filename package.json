@@ -1,0 +1,14 @@
+{
+  "name": "@arturoblack/visanet",
+  "version": "0.1.0",
+  "description": "visaner module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arturoblack",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
